@@ -1,6 +1,6 @@
-owner=385440338321473546
+owner=451162715981873173
 prefix=1
-game=1play | Lamyem
-stayinchannel=true
+game=1play | BCY Empires
+stayinchannel=false
 songinstatus=false
-token=NTQxMDQwNDI0NzUyNzc1MTY4.DzZqrg.a--R7JyXCjwMoNI9-N4tYKc90no
+token=NTQyODIyODI0ODgxMTYwMjU1.Dzzm_A.gFvffmOkEN971PSUoDN3rRP1eSA
