@@ -1,6 +1,6 @@
-owner=451162715981873173
-prefix=1
-game=1play | BCY Empires
+owner= 448964162840690700
+prefix=4
+game=4play | FalconCommunity
 stayinchannel=false
 songinstatus=false
-token=NTQyODIyODI0ODgxMTYwMjU1.Dzzm_A.gFvffmOkEN971PSUoDN3rRP1eSA
+token=NTQ2MjU3NzIwNTU1MDc3NjQ1.D0lmsg.0hq7sGHF6F5b449ceaz35D4ZuT8
